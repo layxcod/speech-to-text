@@ -1,0 +1,245 @@
+1-Download and install the program arduino
+
+2-File -> Preferences -> address boards manager URLs ( https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com/stable/package_esp8266com_index.json )
+
+3-Tools -> board -> board manager -> search ( ESP32 ) install
+
+4-Tools -> check the port if have a COM6
+
+5-Check computer manager -> port -> silicon labs CP210x USB to UART Bridge (COM6)
+
+6-Tools -> board -> ESP32 Dev Module
+
+7-Write the code :
+
+void setup()
+
+{
+
+pinMode(,OUTPUT); // 20 pin
+
+pinMode(,OUTPUT);
+
+pinMode(,OUTPUT);
+
+pinMode(,OUTPUT);
+
+pinMode(,OUTPUT);
+
+pinMode(,OUTPUT);
+
+pinMode(,OUTPUT);
+
+pinMode(,OUTPUT);
+
+pinMode(,OUTPUT);
+
+pinMode(,OUTPUT);
+
+pinMode(,OUTPUT);
+
+pinMode(,OUTPUT);
+
+pinMode(,OUTPUT);
+
+pinMode(,OUTPUT);
+
+pinMode(,OUTPUT);
+
+pinMode(,OUTPUT);
+
+pinMode(,OUTPUT);
+
+pinMode(,OUTPUT);
+
+pinMode(,OUTPUT);
+
+pinMode(,OUTPUT);
+
+pinMode(,OUTPUT);
+
+pinMode(,OUTPUT);
+
+pinMode(,OUTPUT);
+
+//على حسب الارقام في esp الذي سوف نعمل عليه يتم ادخال القيم }
+
+void loop()
+
+{
+
+// high
+
+digitalWrite (,HIGH);
+
+delay(100);
+
+digitalWrite (,HIGH);
+
+delay(100);
+
+digitalWrite (,HIGH);
+
+delay(100);
+
+digitalWrite (,HIGH);
+
+delay(100);
+
+digitalWrite (,HIGH);
+
+delay(100);
+
+digitalWrite (,HIGH);
+
+delay(100);
+
+digitalWrite (,HIGH);
+
+delay(100);
+
+digitalWrite (,HIGH);
+
+delay(100);
+
+digitalWrite (,HIGH);
+
+delay(100);
+
+digitalWrite (,HIGH);
+
+delay(100);
+
+digitalWrite (,HIGH);
+
+delay(100);
+
+digitalWrite (,HIGH);
+
+delay(100);
+
+digitalWrite (,HIGH);
+
+delay(100);
+
+digitalWrite (,HIGH);
+
+delay(100);
+
+digitalWrite (,HIGH);
+
+delay(100);
+
+digitalWrite (,HIGH);
+
+delay(100);
+
+digitalWrite (,HIGH);
+
+delay(100);
+
+digitalWrite (,HIGH);
+
+delay(100);
+
+digitalWrite (,HIGH);
+
+delay(100);
+
+digitalWrite (,HIGH);
+
+delay(100);
+
+digitalWrite (,HIGH);
+
+delay(100);
+
+// low
+
+digitalWrite (,LOW);
+
+delay(100);
+
+digitalWrite (,LOW);
+
+delay(100);
+
+digitalWrite (,LOW);
+
+delay(100);
+
+digitalWrite (,LOW);
+
+delay(100);
+
+digitalWrite (,LOW);
+
+delay(100);
+
+digitalWrite (,LOW);
+
+delay(100);
+
+digitalWrite (,LOW);
+
+delay(100);
+
+digitalWrite (,LOW);
+
+delay(100);
+
+digitalWrite (,LOW);
+
+delay(100);
+
+digitalWrite (,LOW);
+
+delay(100);
+
+digitalWrite (,LOW);
+
+delay(100);
+
+digitalWrite (,LOW);
+
+delay(100);
+
+digitalWrite (,LOW);
+
+delay(100);
+
+digitalWrite (,LOW);
+
+delay(100);
+
+digitalWrite (,LOW);
+
+delay(100);
+
+digitalWrite (,LOW);
+
+delay(100);
+
+digitalWrite (,LOW);
+
+delay(100);
+
+digitalWrite (,LOW);
+
+delay(100);
+
+digitalWrite (,LOW);
+
+delay(100);
+
+digitalWrite (,LOW);
+
+delay(100);
+
+digitalWrite (,LOW);
+
+delay(100);
+
+}
+
+Then wait to Uploading the code.
