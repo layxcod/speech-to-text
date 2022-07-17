@@ -7,8 +7,6 @@ i use HTML\\CSS\\Javascript
 
 To define the Arabic language in the program I used this array: `var langlist = `
 
-var langlist = [
-
 To search for the Arabic language encoding and the rest of the languages to be added •	https://cloud.google.com/speech-to-text/docs/languages
 
 This function helped me transliterate the voice •	https://www.studytonight.com/post/javascript-speech-recognition-example-speech-to-text
