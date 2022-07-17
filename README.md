@@ -5,7 +5,7 @@ This program to speak Arabic and write speaking text
 
 i use HTML\\CSS\\Javascript 
 
-To define the Arabic language in the program I used this array 
+To define the Arabic language in the program I used this array: `var langlist = `
 
 var langlist = [
 
